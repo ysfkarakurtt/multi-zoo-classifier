@@ -11,7 +11,6 @@ MultiZoo is a desktop-based animal image classification application developed us
 * Display prediction label and model confidence score.
 * Lightweight and easy-to-use GUI with Tkinter.
 
-
 ---
 
 ##  Technologies Used
