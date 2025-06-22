@@ -88,3 +88,4 @@ MultiZoo is a desktop-based animal image classification application developed us
   <img src="https://github.com/user-attachments/assets/a675b640-79d6-45e1-8144-41af434c184a" width="400" alt="Screenshot 3" />
 </p>
 
+
