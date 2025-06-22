@@ -1,4 +1,4 @@
-# MultiZoo Animal Classifier
+# Multi Zoo Classifier
 
 ##  Description
 
@@ -29,7 +29,7 @@ MultiZoo is a desktop-based animal image classification application developed us
 
 ##  Model Training
 
-* **Dataset:** MultiZoo Dataset provided by course coordinators
+* **Dataset:** MultiZoo Dataset provided by the Computer Engineering Department of Kocaeli University
 * **Split:** 80% Training, 20% Validation, separate Test Set
 * **Augmentation:** Resize, normalization, random flip
 * **Optimizer:** Adam
